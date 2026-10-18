@@ -1,6 +1,10 @@
 # 素材来源与授权
 
 ## 动物模型（Sketchfab）
+- `grey_heron`："Grey Heron – Standing Rigged Bird" by Pigcraft (https://sketchfab.com/s8819296)，CC-BY-4.0，https://sketchfab.com/3d-models/grey-heron-standing-rigged-bird-0b1f566f0caf4522ad3c87fa5bbb275e （原模型没有骨架和动画：减面后自动绑骨，站、走、啄鱼、警觉都是合成的） <!-- grey_heron -->
+- `red_eyed_tree_frog`："CC0 シュレーゲルアオガエル 🐸 ♀ Schlegel's Green Tree Frog" by ffish.asia / floraZia.com (https://sketchfab.com/ffishAsia-and-floraZia)，CC0-1.0，https://sketchfab.com/3d-models/cc0-schlegels-green-tree-frog-218caec043db49d4b41855ab7e92765d （这是施氏树蛙的模型，配色改成了红眼树蛙） <!-- red_eyed_tree_frog -->
+- `great_spotted_woodpecker`："Woodpecker" by kenchoo (https://sketchfab.com/kenchoo)，CC-BY-NC-4.0，https://sketchfab.com/3d-models/woodpecker-7b6c1f3b93c0489280dc693044acfc1f （红腹啄木鸟的模型；物种 id 沿用早先的大斑啄木鸟） <!-- great_spotted_woodpecker -->
+- `common_ostrich`："African ostrich (Revised version)" by Андрей (https://sketchfab.com/andrey.tnt12561)，CC-BY-4.0，https://sketchfab.com/3d-models/african-ostrich-revised-version-0999e676453e4562a7777cd006125738 <!-- common_ostrich -->
 - `thomsons_gazelle`："Gazella" by kenchoo (https://sketchfab.com/kenchoo)，CC-BY-4.0，https://sketchfab.com/3d-models/gazella-b2c70a0821ef4c6ca0c096e33bc97593 <!-- thomsons_gazelle -->
 - `meerkat`："Romy Weber Meerkat Animation" by romy_weber (https://sketchfab.com/romy_weber)，CC-BY-4.0，https://sketchfab.com/3d-models/romy-weber-meerkat-animation-819355438c7f45999794ca1e7e230c9b <!-- meerkat -->
 - `large_billed_crow`："Crow" by Alexei Ostapenko (https://sketchfab.com/alexanders823)，CC-BY-4.0，https://sketchfab.com/3d-models/crow-d5a9b0df4da3493688b63ce42c8a83e2 <!-- large_billed_crow -->
